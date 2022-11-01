@@ -1,0 +1,3 @@
+1. Porque elegiste estudiar Ingenieria en Sistemas?
+2. Cuales son tus lenguajes de programacion favoritos?
+3. Java o Python? 
